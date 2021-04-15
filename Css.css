@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Planodefundo{
+background-size: cover;
+background-image: url("Imagens/Background.png");
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: center; 
+}
+
+.botao{
+  position:absolute;
+  left: 40%;
+  right: 60%;
+  color: black;
+  
+ 
+}
